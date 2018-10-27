@@ -1,5 +1,6 @@
-import classLearn.Person;
-import classLearn.Student;
+package classLearn;
+
+
 
 public class Main {
 
