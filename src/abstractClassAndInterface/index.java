@@ -14,5 +14,8 @@ public class index {
         System.out.println(circle.areas());
         System.out.println(util.isGreaterThan(rect,circle));
         System.out.println(util.isLessThan(rect,circle));
+
+        Shape shapes[] = {rect,circle};
+        System.out.println(util.sum(shapes));
     }
 }
